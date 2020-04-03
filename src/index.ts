@@ -1,2 +1,3 @@
-export default function fun() {
+export default function awx12() {
+	wx.hideLoading();
 }
