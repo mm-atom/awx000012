@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000012",
-	"version": "1.0.202004030912",
+	"version": "1.0.202004170922",
 	"description": "隐藏 loading 提示框",
 	"scripts": {
 		"test": "tsc -w",
